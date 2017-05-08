@@ -16,7 +16,7 @@ body {
 }
 
 #intro {
-	width: 500px;
+	width: 600px;
 }
 
 h1 {
@@ -39,5 +39,6 @@ h3 {
 
 #pic {
 	float: right;
+	border: 10px solid #FFF
 }
 
