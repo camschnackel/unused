@@ -28,5 +28,7 @@ h2 {
   font-size: 36
 }
 
-
+#pic {
+	float: right;
+}
 
