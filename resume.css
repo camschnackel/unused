@@ -21,17 +21,19 @@ body {
 }
 
 #contentheader {
-	margin top: 50px;
+	margin-top: 80px;
 	text-align: center;
 }
 
 h1 {
 	font-size: 48px;
+	font-weight: 200;
  
 }
 
 h2 {
 	font-size: 16px;
+	font-weight: 200;
 }
 
 h3 {
