@@ -18,14 +18,19 @@ body {
 h1 {
   font-weight: 400;
   text-align: left;
-  font-size: 48;
+  font-size: 72;
  
 }
 
 h2 {
   font-weight: 300;
   text-align: left;
-  font-size: 36
+  font-size: 18
+}
+
+h3 {
+  font-size: 36;
+  text-align: left;
 }
 
 #pic {
