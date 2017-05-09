@@ -12,7 +12,6 @@ body {
 	border-radius: 15px;
 	background-color: #ECF0F1;
 
-	text-align: left;
 }
 
 #intro {
@@ -23,6 +22,11 @@ body {
 #contentheader {
 	margin-top: 80px;
 	text-align: center;
+}
+
+#content {
+	text-align: left;
+	font-size: 14px;
 }
 
 h1 {
@@ -38,6 +42,18 @@ h2 {
 
 h3 {
 	font-size: 24px;
+}
+
+p4 {
+	text-decoration: underline, bold;
+}
+
+p5 {
+	float: right;
+}
+
+p6 {
+	text-decoration: bold, italic;
 }
 
 #pic {
