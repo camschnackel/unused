@@ -45,7 +45,8 @@ h3 {
 }
 
 p4 {
-	text-decoration: underline, bold;
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 p5 {
@@ -53,7 +54,8 @@ p5 {
 }
 
 p6 {
-	text-decoration: bold, italic;
+	font-weight: bold;
+	font-style: italic;
 }
 
 #pic {
