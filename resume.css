@@ -5,7 +5,7 @@ body {
 #container {
 	margin: 20 auto 0 auto
 
-	padding: 10px 150px 10px 150px;
+	padding: 10px 100px 10px 100px;
 
 	border-radius: 15px;
 	background-color: #ECF0F1;
@@ -15,7 +15,7 @@ body {
 }
 
 #intro {
-	max-width: 400px;
+	width: 400px;
 	text-align:left;
 }
 
