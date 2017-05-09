@@ -11,6 +11,8 @@ body {
 
 	border-radius: 15px;
 	background-color: #ECF0F1;
+	
+	max-width: 750px;
 
 }
 
