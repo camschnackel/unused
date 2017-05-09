@@ -4,8 +4,8 @@ body {
 
 #container {
 	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: auto 200px;
+	margin-right: auto 200px;
 
 	padding: 10px 150px 10px 150px;
 
@@ -45,7 +45,6 @@ h3 {
 }
 
 p4 {
-	text-decoration: underline;
 	font-weight: bold;
 }
 
